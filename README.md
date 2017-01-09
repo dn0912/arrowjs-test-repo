@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Arrow.js - the correlation engine
 
-You can use the [editor on GitHub](https://github.com/dn0912/arrowjs-test-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![Build Status](https://travis-ci.org/amos-ws16/amos-ws16-arrowjs.svg?branch=master)](https://travis-ci.org/amos-ws16/amos-ws16-arrowjs?branch=master) [![Coverage Status](https://coveralls.io/repos/github/amos-ws16/amos-ws16-arrowjs/badge.svg?branch=master)](https://coveralls.io/github/amos-ws16/amos-ws16-arrowjs?branch=master)
+@`master`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Build Status](https://travis-ci.org/amos-ws16/amos-ws16-arrowjs.svg?branch=dev)](https://travis-ci.org/amos-ws16/amos-ws16-arrowjs?branch=dev) [![Coverage Status](https://coveralls.io/repos/github/amos-ws16/amos-ws16-arrowjs/badge.svg?branch=dev)](https://coveralls.io/github/amos-ws16/amos-ws16-arrowjs?branch=dev)
+@`dev`
 
-### Markdown
+[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Check out the [development guide](docs/development-guide.md).
 
-# Header 1
-## Header 2
-### Header 3
+## Repository Branches
+  + `master`: only tagged releases, i.e. `sprint-xx-release`,
+    `mid-project-release`, `final-release`
+  + `dev`: currently completed features
+  + `feature-id-description`: one branch per feature
 
-- Bulleted
-- List
+## License
 
-1. Numbered
-2. List
+Arrow.js is licensed under the [AGPL](LICENSE.md).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dn0912/arrowjs-test-repo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
