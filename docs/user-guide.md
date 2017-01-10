@@ -151,6 +151,7 @@ This configuration is used to compare the description of file, which is first tr
 
 ## 7. Example Request with Configuration
 POST Request:
+
 ```json
 {
     "config": {
