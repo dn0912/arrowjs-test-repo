@@ -8,7 +8,7 @@
 
 [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-Arrow.js supports the user to identify the correlation between multiple contexts and a single file. We score the relation between different resources. As the result the user gets a score, which describes the probability of a connection between these data sets. This service is accessible through a REST call (for more information read our [user guide](docs/user-guide.md).
+Arrow.js supports the user to identify the correlation between multiple contexts and a single file. We score the relation between different resources. As the result the user gets a score, which describes the probability of a connection between these data sets. This service is accessible through a REST call (for more information read our [user guide](docs/user-guide.md)).
 
 ## Table of contents
 
